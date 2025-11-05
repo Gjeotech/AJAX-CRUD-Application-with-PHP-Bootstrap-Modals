@@ -15,3 +15,9 @@ MySQL – Database for storing staff details
 jQuery AJAX – Asynchronous data requests
 Bootstrap 4 – UI styling and modal components
 HTML5 / CSS3 / JavaScript – Frontend structure and interactivity
+
+
+======🧑‍🏫 Author=======
+Name: Onyeacholem Ifeanyi Joshua
+GitHub: @Gjeotech
+Email: brandykoke@gmail.com
